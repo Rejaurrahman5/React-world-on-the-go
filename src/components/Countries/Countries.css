@@ -7,3 +7,22 @@ ol{
     list-style-type:decimal;
     padding-left:20px;
 }
+
+.visited-flags-container{
+    flex-wrap: wrap;
+    gap: 15px;   
+    display: flex;
+   
+    margin-top: 15px;
+
+}
+.visited-flags-container img {
+    width: 100px;
+    height:auto;
+}
+
+.container{
+    padding: 20px;
+    max-width: 1200px;
+    margin:0 auto;
+}

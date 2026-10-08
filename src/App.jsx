@@ -13,7 +13,7 @@ function App() {
   return (
     
    <>
-  <Suspense fallback={<p>Raju va loading....</p>}>
+  <Suspense fallback={<p>Raju vai loading....</p>}>
      <Countries countriesPromise={countriesPromise}></Countries>
   </Suspense>
    </>
